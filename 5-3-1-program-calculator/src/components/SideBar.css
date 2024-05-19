@@ -1,0 +1,10 @@
+.sideBar {
+    background: #18171A;
+    border-radius: 30px;
+    width: 12.5vw;
+    height: 65vh;
+    box-shadow: 20px 10px 5px;
+    position: relative;
+    top: 10vh;
+    right: 6.25vw;
+}
